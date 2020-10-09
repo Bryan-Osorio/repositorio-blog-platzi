@@ -19,3 +19,11 @@ body{
 .contenedor:hover{
     transform: scale(1.1);
 }
+
+header{
+    width: 100%;
+    background-color: #000;
+    text-align: center;
+    color: #fff;
+    padding: 2em;
+}
