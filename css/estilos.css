@@ -14,6 +14,13 @@ body{
     padding-top: 0;
 }
 
+h1{
+    text-align: center;
+    background-color: darkcyan;
+    padding: 20px;
+
+}
+
 
 
 .contenedor:hover{
