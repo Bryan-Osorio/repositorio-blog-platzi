@@ -10,6 +10,8 @@
 <p><b>El flujo de trabajo en GITHUB</b></p>
 <p><b>Las buenas practicas</b></p>
 <p><strong>Creado por el increible JADEN MALLETE</strong></p>
+<p>Tiene pruebas en LINUX , WINDOWS , MACOS</p>
+<p>Disponible para todas las edades</p>
 
 
 <p>Este README es un ejemplo de no tomar enserio muchas cosas que se escriben como chistes</p>
